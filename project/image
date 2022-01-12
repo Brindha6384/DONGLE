@@ -1,0 +1,51 @@
+H:\folders\Desktop\sweeet
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9DrqD24gSg-wgO6TwGoWO6ncLieBKZNVdtA&usqp=CAU" alt="sweet
+<li><a href="#">Sweets</a></li>
+                    <li><a href="#">Savories</a></li>
+                    <li><a href="#">Snacks & Chats</a></li>
+                    <li><a href="#">Fast Foods</a></li>
+                    <li><a href="#">Gifting</a></li>
+                    <img id="pot2" src="H:\love songs\1.jpg" >
+                <img id="pot3" src="H:\love songs\2.jpg" >
+                <img id="pot4" src="H:\love songs\3.jpg" >
+                <img id="pot5" src="H:\love songs\4.jpg" >
+                <img id="pot6" src="H:\love songs\5.jpg" >
+
+                <section>
+            <div class="bigimage1">
+                <figure>
+                    
+                    <img id="slide1" src="H:\folders\Pictures\Saved Picturesalt\slide1.jpg" alt="img1">
+                    <p id="word1">Chola Items</p>
+                    
+                    
+                    <img id="slide2"src="H:\folders\Pictures\Saved Pictures\slide2.jpg" alt="img2">
+                    <p id="word2">Sweets</p>
+                    
+                    <div>
+                    <img id="slide3"src="H:\folders\Pictures\Saved Pictures\slide3.jpg" alt="img3">
+                    <p id="word3">Snacks</p>
+                    </div>
+                    <div>
+                    <img id="slide4"src="H:\folders\Pictures\Saved Pictures\slide4.jpg" alt="img4">
+                    <p id="word4">Pav Bajis</p>
+                    </div>
+                    <div>
+                    <img id="slide5" src="H:\folders\Pictures\Saved Pictures\slide5.jpg" alt="img5">
+                    <p id="word5">Burger</p>
+                    </div>
+                    <div>
+                    <img id="slide6" src="H:\folders\Pictures\Saved Pictures\slide6.jpg" alt="img6">
+                    <p id="word6">Biriyani's</p>
+                    </div>
+                    <div>
+                    <img id="slide7" src="H:\folders\Pictures\Saved Pictures\slide7" alt="img7">
+                    <p id="word7">Milk Items</p>
+                    </div>
+                    <div>
+                    <img id="slide8"src="H:\folders\Pictures\Saved Pictures\slide8" alt="img8">
+                    <p id="word7">Pizzas</p>
+                    </div>
+                </figure>
+
+            </div>
